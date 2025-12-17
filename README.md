@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1118035537.svg)](https://doi.org/10.5281/zenodo.17961480)
+
 ![hankelogo](/images/rovesugv_logo.png)
 
 # rovesugv-fixposition-api-client
